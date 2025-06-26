@@ -17,7 +17,7 @@
 ---
 ## 💡 프로젝트 시행 영상
 
-![채팅프로그램시연영상](https://github.com/user-attachments/assets/105baab1-98e4-43cf-ba69-e7b7fafd1cd7)
+![채팅프로그램시연영상](https://github.com/user-attachments/assets/9ab52ca9-d1c8-4670-afa8-e68bb7a3893b)
 
 
 
